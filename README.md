@@ -41,13 +41,7 @@ an open-source API testing and automation framework simplifying testing pipeline
 - Automated infra provisioning via Terraform modules and Ansible playbooks  
 - Designed GitOps workflows using ArgoCD and Helm  
 - Deployed Prometheus & Grafana for real-time observability  
-- Ensured secure pipelines and RBAC policies with Vault and IAM best practices  
-
-#### 🎓 Certifications
-- 🏅 AWS Certified Solutions Architect – Associate  
-- ☁️ Microsoft Certified: Azure Administrator Associate  
-- 📜 HashiCorp Certified: Terraform Associate  
-- 🐧 Kubernetes Administrator (CKA) *(in progress)*  
+- Ensured secure pipelines and RBAC policies with Vault and IAM best practices 
 
 ---
 
